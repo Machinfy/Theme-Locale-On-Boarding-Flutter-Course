@@ -1,0 +1,6 @@
+{
+  "skip": "SKIP",
+  "@skip": {
+    "description": "Skip Button"
+  }
+}
